@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          Knock Knock Neo. Follow White Rabbit. Kiss
+          Knock Knock Neo. Follow The White Rabbit.
         </p>
       </div>
     );
